@@ -8,6 +8,7 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [x] Hello World [Solution Link](https://exercism.io/tracks/python/exercises/hello-world/solutions/de2ecb5a0abf4169a7ef1b7d645888e2)
 - [x] Two Fer [Solution Link](https://exercism.io/tracks/python/exercises/two-fer/solutions/211b8514a9e34ea9a35ca8c2dae213e3)
 - [x] Raindrops [Solution Link](https://exercism.io/tracks/python/exercises/raindrops/solutions/cc4ea2fd08c44572b1b930f9f97c7c3e)
+- [x] High Scores [Solution Link](https://exercism.io/tracks/python/exercises/high-scores/solutions/1db2adc58ab345f2ae4b14dafaac61b8)
 - [ ] Series
 - [ ] Palindrome Products
 - [ ] Yacht
@@ -69,7 +70,6 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [ ] Bob
 - [ ] POV
 - [ ] Space Age
-- [ ] High Scores
 - [ ] Complex Numbers
 - [ ] Triangle
 - [ ] Satellite
