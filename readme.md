@@ -9,6 +9,7 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [x] Two Fer [Solution Link](https://exercism.io/tracks/python/exercises/two-fer/solutions/211b8514a9e34ea9a35ca8c2dae213e3)
 - [x] Raindrops [Solution Link](https://exercism.io/tracks/python/exercises/raindrops/solutions/cc4ea2fd08c44572b1b930f9f97c7c3e)
 - [x] High Scores [Solution Link](https://exercism.io/tracks/python/exercises/high-scores/solutions/1db2adc58ab345f2ae4b14dafaac61b8)
+- [x] Matrix [Solution Link](https://exercism.io/tracks/python/exercises/matrix/solutions/e9619a0e1a74460ca4c4ce5ffcafa56a)
 - [ ] Series
 - [ ] Palindrome Products
 - [ ] Yacht
@@ -42,7 +43,6 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [ ] Prime Factors
 - [ ] Isogram
 - [ ] RNA Transcription
-- [ ] Matrix
 - [ ] Beer Song
 - [ ] Roman Numerals
 - [ ] Resistor Color Duo
