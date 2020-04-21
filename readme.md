@@ -2,12 +2,12 @@
 Repository for python track of : https://exercism.io/tracks/python
 
 ## Profile Link:
-Saurabh Dutta's [Profile](https://exercism.io/profiles/saurabh73)
+Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 
 ## Track Checklist
-- [x] Hello World
-- [x] Two Fer
-- [x] Raindrops
+- [x] Hello World [Solution Link](https://exercism.io/tracks/python/exercises/hello-world/solutions/de2ecb5a0abf4169a7ef1b7d645888e2)
+- [x] Two Fer [Solution Link](https://exercism.io/tracks/python/exercises/two-fer/solutions/211b8514a9e34ea9a35ca8c2dae213e3)
+- [x] Raindrops [Solution Link](https://exercism.io/tracks/python/exercises/raindrops/solutions/cc4ea2fd08c44572b1b930f9f97c7c3e)
 - [ ] Series
 - [ ] Palindrome Products
 - [ ] Yacht
