@@ -1,5 +1,5 @@
 # Python Learning Track 
-Repository for python track of : https://exercism.io/my/tracks/python
+Repository for python track of : https://exercism.io/tracks/python
 
 ## Profile Link:
 Saurabh Dutta's [Profile](https://exercism.io/profiles/saurabh73)
