@@ -13,6 +13,7 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [x] Raindrops [Solution Link](https://exercism.io/tracks/python/exercises/raindrops/solutions/cc4ea2fd08c44572b1b930f9f97c7c3e)
 - [x] High Scores [Solution Link](https://exercism.io/tracks/python/exercises/high-scores/solutions/1db2adc58ab345f2ae4b14dafaac61b8)
 - [x] Matrix [Solution Link](https://exercism.io/tracks/python/exercises/matrix/solutions/e9619a0e1a74460ca4c4ce5ffcafa56a)
+- [ ] Hamming [Solution Link](https://exercism.io/tracks/python/exercises/hamming/solutions/7d1c431c9d154ce2b5d2d54780527136)
 - [ ] Series
 - [ ] Palindrome Products
 - [ ] Yacht
@@ -69,7 +70,6 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [ ] Robot Simulator
 - [ ] Grep
 - [ ] Scrabble Score
-- [ ] Hamming
 - [ ] Bob
 - [ ] POV
 - [ ] Space Age
