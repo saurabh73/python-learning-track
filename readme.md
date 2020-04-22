@@ -14,6 +14,7 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [x] High Scores [Solution Link](https://exercism.io/tracks/python/exercises/high-scores/solutions/1db2adc58ab345f2ae4b14dafaac61b8)
 - [x] Matrix [Solution Link](https://exercism.io/tracks/python/exercises/matrix/solutions/e9619a0e1a74460ca4c4ce5ffcafa56a)
 - [ ] Hamming [Solution Link](https://exercism.io/tracks/python/exercises/hamming/solutions/7d1c431c9d154ce2b5d2d54780527136)
+- [ ] Isogram [Solution Link](https://exercism.io/tracks/python/exercises/isogram/solutions/7cb9d6cac3e14e48a85c7dcef7822371)
 - [ ] Series
 - [ ] Palindrome Products
 - [ ] Yacht
@@ -45,7 +46,6 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [ ] Variable Length Quantity
 - [ ] Change
 - [ ] Prime Factors
-- [ ] Isogram
 - [ ] RNA Transcription
 - [ ] Beer Song
 - [ ] Roman Numerals
