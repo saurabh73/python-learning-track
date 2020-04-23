@@ -13,8 +13,10 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [x] Raindrops [Solution Link](https://exercism.io/tracks/python/exercises/raindrops/solutions/cc4ea2fd08c44572b1b930f9f97c7c3e)
 - [x] High Scores [Solution Link](https://exercism.io/tracks/python/exercises/high-scores/solutions/1db2adc58ab345f2ae4b14dafaac61b8)
 - [x] Matrix [Solution Link](https://exercism.io/tracks/python/exercises/matrix/solutions/e9619a0e1a74460ca4c4ce5ffcafa56a)
-- [ ] Hamming [Solution Link](https://exercism.io/tracks/python/exercises/hamming/solutions/7d1c431c9d154ce2b5d2d54780527136)
-- [ ] Isogram [Solution Link](https://exercism.io/tracks/python/exercises/isogram/solutions/7cb9d6cac3e14e48a85c7dcef7822371)
+- [x] Hamming [Solution Link](https://exercism.io/tracks/python/exercises/hamming/solutions/7d1c431c9d154ce2b5d2d54780527136)
+- [x] Isogram [Solution Link](https://exercism.io/tracks/python/exercises/isogram/solutions/7cb9d6cac3e14e48a85c7dcef7822371)
+- [x] Twelve Days [Solution Link](https://exercism.io/tracks/python/exercises/twelve-days/solutions/40923972c8044dfdb3c2821617519f1c)
+- [ ] Word Count
 - [ ] Series
 - [ ] Palindrome Products
 - [ ] Yacht
@@ -102,7 +104,6 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [ ] Phone Number
 - [ ] Scale Generator
 - [ ] Luhn
-- [ ] Word Count
 - [ ] Queen Attack
 - [ ] Bank Account
 - [ ] Gigasecond
@@ -119,7 +120,6 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [ ] Nth Prime
 - [ ] Knapsack
 - [ ] Reverse String
-- [ ] Twelve Days
 - [ ] Acronym
 - [ ] Diffie Hellman
 - [ ] Markdown
