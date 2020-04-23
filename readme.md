@@ -16,7 +16,7 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [x] Hamming [Solution Link](https://exercism.io/tracks/python/exercises/hamming/solutions/7d1c431c9d154ce2b5d2d54780527136)
 - [x] Isogram [Solution Link](https://exercism.io/tracks/python/exercises/isogram/solutions/7cb9d6cac3e14e48a85c7dcef7822371)
 - [x] Twelve Days [Solution Link](https://exercism.io/tracks/python/exercises/twelve-days/solutions/40923972c8044dfdb3c2821617519f1c)
-- [ ] Word Count
+- [x] Word Count [Solution Link](https://exercism.io/tracks/python/exercises/word-count/solutions/2245b56834134361953083f3b2a8ef3a)
 - [ ] Series
 - [ ] Palindrome Products
 - [ ] Yacht
