@@ -19,6 +19,7 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [x] Word Count [Solution Link](https://exercism.io/tracks/python/exercises/word-count/solutions/2245b56834134361953083f3b2a8ef3a)
 - [x] Scrabble Score [Solution Link](https://exercism.io/tracks/python/exercises/scrabble-score/solutions/27de76ff9a2f4c5d8354998f9fa90323)
 - [x] Acronym  [Solution Link](https://exercism.io/tracks/python/exercises/acronym/solutions/9ad810766b28475ba5f37bff9347c01a)
+- [x] Kindergarten Garden [Solution Link](https://exercism.io/tracks/python/exercises/kindergarten-garden/solutions/2dc2ff6e9fcf475d9f227eda8ebbedeb)
 - [ ] Series
 - [ ] Palindrome Products
 - [ ] Yacht
@@ -82,7 +83,6 @@ Saurabh Dutta: [Profile Link](https://exercism.io/profiles/saurabh73)
 - [ ] Transpose
 - [ ] Tree Building
 - [ ] Atbash Cipher
-- [ ] Kindergarten Garden
 - [ ] Crypto Square
 - [ ] Simple Cipher
 - [ ] Meetup
